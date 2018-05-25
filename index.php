@@ -34,7 +34,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="main.css" type="text/css" />
     
-    <title>Tienda BIT</title>
+    <title>UBER EATS, dandote de comer en la boca desde 2018 ;)</title>
 </head>
 <body>
 	<div class="logo">
