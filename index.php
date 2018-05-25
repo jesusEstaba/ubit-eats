@@ -110,7 +110,7 @@
                     </h2>
                     
                     <p>
-                    	<small><span style="color: red;"><b>**</b></span>Cabe destacar que esto es una aplicación de prueba para el curso de PHP de <span class="bit">BIT</span>, por lo tanto nadie te va a vender nada. Mejor pide una empanadas por <span class="rappi">Rappi</span>.</small>
+                    	<small><span style="color: red;"><b>**</b></span>Cabe destacar que esto es una aplicación de prueba para el curso de PHP de <span class="bit">BIT</span>, por lo tanto nadie te va a vender nada. Mejor pide unas empanadas por <span class="rappi">Rappi</span>.</small>
                     	<br>
                     	<small>
                     		Pd: Puedes brindarle al profe.
