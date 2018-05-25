@@ -32,10 +32,6 @@ small {
     width: 50%;
 }
 
-.cuarto-de.columna {
-    width: 25%;
-}
-
 /*HELPERS*/
 
 .a-la-derecha{
@@ -44,6 +40,7 @@ small {
 
 .imagen-adaptable {
     max-width: 100%;
+    min-width: 100%;
 }
 
 .texto.centrado {
@@ -164,4 +161,19 @@ small {
 
 .comprar:hover {
     background: #673ab7;
+}
+
+
+@media (max-width: 1000px) {
+    body {
+        padding: 1em;
+    }
+    
+    .contenedor, .mitad-de.columna, .productos .producto {
+        width: 100%;
+    }
+    
+    .productos {
+        margin: 0;
+    }
 }
